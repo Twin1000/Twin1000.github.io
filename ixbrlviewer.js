@@ -1,4 +1,3 @@
-<script>
     !function(e) {
     var t = {};
     function n(r) {
@@ -57239,4 +57238,3 @@
 }
     ]);
 
-</script>
